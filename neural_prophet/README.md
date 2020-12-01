@@ -45,31 +45,5 @@ We deploy Black, the uncompromising code formatter, so there is no need to worry
 
 As for Git practices, please follow the steps described at [Swiss Cheese](https://github.com/ourownstory/swiss-cheese/blob/master/git_best_practices.md) for how to git-rebase-squash when working on a forked repo.
 
-## Changelogs
 
-### Coming up Next
-The next versions of NeuralProphet are expected to cover a set of new exciting features:
 
-* Robustify training for different datasets
-* Logistic growth for trend component.
-* Uncertainty estimation of individual forecast components as well as the final forecasts. 
-* Support for panel data by building global forecasting models.
-* Incorporate time series featurization for improved forecast accuracy.
-
-### 0.2.6 (WIP)
-* soft-start regularization
-
-### 0.2.5 (current release)
-* documentation pages added
-* 1cycle policy
-* learning rate range test
-* tutorial notebooks: trend, events
-* fixes to plotting, changepoints
-
-## Development Timeline
-For details, please view the [Development Timeline](notes/development_timeline.md).
-
-## Authors
-The alpha-stage NeuralProphet was developed by Oskar Triebe, advised by Ram Rajagopal (Stanford University) and Nikolay Laptev (Facebook, Inc), and was funded by Total S.A.
-We are now further developing the beta-stage package in collaboration with Hansika Hewamalage, who is advised by Christoph Bergmeir (Monash University).
-If you are interested in joining the project, please feel free to reach out to me (Oskar) - you can find my email on the [AR-Net Paper](https://arxiv.org/pdf/1911.12436.pdf).
