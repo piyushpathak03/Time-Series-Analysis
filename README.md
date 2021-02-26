@@ -81,14 +81,7 @@ On Windows, PyStan requires a compiler so you'll need to [follow the instruction
 
 Make sure compilers (gcc, g++, build-essential) and Python development tools (python-dev, python3-dev) are installed. In Red Hat systems, install the packages gcc64 and gcc64-c++. If you are using a VM, be aware that you will need at least 4GB of memory to install fbprophet, and at least 2GB of memory to use fbprophet.
 
-## Changelog
 
-### Version 0.6 (2020.03.03)
-
-- Fix bugs related to upstream changes in `holidays` and `pandas` packages.
-- Compile model during first use, not during install (to comply with CRAN policy)
-- `cmdstanpy` backend now available in Python
-- Python 2 no longer supported
 
 ## About me
 
