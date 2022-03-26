@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-Times Series Analysis with various examples
+Times Series Analysis with various algorithmic examples 
 
 
 # Prophet: Automatic Forecasting Procedure
